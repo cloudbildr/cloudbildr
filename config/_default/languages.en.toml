@@ -14,13 +14,10 @@ title = "CloudBildr"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
+[params.author]
+  name = "CloudBildr"
+  image = "logo.svg"
+  headline = "Cloud & Data Engineer, infrastructure enthusiast"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
