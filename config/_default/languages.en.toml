@@ -17,7 +17,7 @@ title = "CloudBildr"
 [params.author]
   name = "CloudBildr"
   image = "logo.svg"
-  headline = "Cloud & Data Engineer, infrastructure enthusiast"
+  headline = "Cloud & Data Engineer. Infrastructure Enthusiast."
   links = [
     { youtube = "https://www.youtube.com/@cloudbildr" },
     { x-twitter = "https://x.com/cloudbildr" },
