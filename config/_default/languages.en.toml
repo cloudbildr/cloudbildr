@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "CloudBildr"
+title = "ThinkInfra"
 
 [params]
   displayName = "EN"
@@ -15,13 +15,13 @@ title = "CloudBildr"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "CloudBildr"
+  name = "George Boone"
   image = "logo.svg"
   headline = "Cloud & Data Engineer. Infrastructure Enthusiast."
   links = [
-    { youtube = "https://www.youtube.com/@cloudbildr" },
-    { x-twitter = "https://x.com/cloudbildr" },
-    { github = "https://www.github.com/cloudbildr" },
+    { youtube = "https://www.youtube.com/@thinkinfra" },
+    { x-twitter = "https://x.com/thinkinfra" },
+    { github = "https://www.github.com/thinkinfraio" },
   ]
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },

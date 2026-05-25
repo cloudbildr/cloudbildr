@@ -2,6 +2,7 @@
 title: "Infrastructure as Code: Beyond the Basics"
 date: 2026-03-16
 draft: false
+authors: ["George Boone"]
 tags: ["iac", "terraform", "devops", "automation"]
 categories: ["engineering"]
 series: ["cloud-fundamentals"]

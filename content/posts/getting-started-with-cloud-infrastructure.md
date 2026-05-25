@@ -2,6 +2,7 @@
 title: "Getting Started with Cloud Infrastructure"
 date: 2026-03-10
 draft: false
+authors: ["George Boone"]
 tags: ["cloud", "infrastructure", "beginner"]
 categories: ["tutorials"]
 series: ["cloud-fundamentals"]

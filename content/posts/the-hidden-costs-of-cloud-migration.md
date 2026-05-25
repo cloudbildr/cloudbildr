@@ -2,6 +2,7 @@
 title: "The Hidden Costs of Cloud Migration"
 date: 2026-03-20
 draft: false
+authors: ["George Boone"]
 tags: ["cloud", "migration", "cost", "strategy"]
 categories: ["strategy"]
 description: "Everyone talks about the savings. Here's what the migration estimates usually leave out — and how to budget for the real cost of moving to the cloud."
